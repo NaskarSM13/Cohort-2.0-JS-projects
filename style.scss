@@ -21,4 +21,8 @@ body {
     height: 10px;
     transition: all ease 0.4s;
   }
+
+  .box.active {
+    background-color: green;
+  }
 }
